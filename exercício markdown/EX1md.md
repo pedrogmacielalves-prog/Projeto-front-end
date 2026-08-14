@@ -9,7 +9,7 @@
 
 
 ## _Imagens:_
-![Texto alternativo da imagem](Princesa_Zelda.png)
+![Princesa_Zelda](Princesa_Zelda.png)
 
 
 
